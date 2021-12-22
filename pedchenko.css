@@ -7,3 +7,8 @@ background-color:red;
 	background-color:green;
 	}
 }
+@media handheld{
+	div {
+	background-color:blue;
+	}
+}
