@@ -2,7 +2,7 @@ div {
 background-color:red;
 }
 
-@media projection, screen, tty, tv{
+@media screen {
 	div {
 	background-color:green;
 	}
